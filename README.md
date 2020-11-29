@@ -1,7 +1,12 @@
-# openCV on Raspberry PI
+# Raspberry PI Jupyter Notebook, openCV, Raspberry PI Camera
 
-* What is openCV?
-* Configuring it for the Python: We have our own compiled version now
-* Getting started with openCV for viewing images
-* Using openCV for color detection in an image
-* Use openCV on Raspberry Pi to do object detection
+## Getting started
+
+`sudo pip3 install jupyterlab`
+
+`git clone https://github.com/ricklon/opencvraspberrypi`
+
+```
+cd opencvraspberrypi
+jupyter notebok .
+```
