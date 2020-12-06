@@ -8,5 +8,5 @@
 
 ```
 cd opencvraspberrypi
-jupyter notebok .
+jupyter lab ./notebook 
 ```
